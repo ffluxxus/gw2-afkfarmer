@@ -10,7 +10,7 @@
 
 ---
 
-![ShowcaseImage](https://github.com/ffluxxus/unity-headunit/blob/main/showcase/image_2024-07-15_232121984.png?raw=true)
+![ShowcaseImage](https://github.com/ffluxxus/gw2-afkfarmer/blob/main/.github/Untitled.png?raw=true)
 
 ### Description
 Python / AutoHotkey based AFK Coin Farmer used on Garden Warfare 2 to get ~60k per hour.
