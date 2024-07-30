@@ -1,4 +1,4 @@
-# AFK Coin Farmer - Garden Warfare 2
+# AFK Coin Farmer - Garden Warfare 2 <> Purchase Source Code by Messaging Me
 
 ---
 
@@ -38,3 +38,8 @@ MIT
    - Zombies: Cosmic Overload
  - Super Brains must be used at all times
  - You must walk into the portal when first created then you are done
+
+### Other
+ - To enable debugging you must create a file called "debug" and put it in the application directory
+ - To bypass 7 second wait timer at first startup you must create a file called "ran" and put it in the application directory
+ - Do NOT remove or tamper any files in any directory
