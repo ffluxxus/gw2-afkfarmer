@@ -28,9 +28,6 @@ Python / AutoHotkey based AFK Coin Farmer used on Garden Warfare 2 to get ~60k p
  - Windows 10
  - Windows 11
 
-### License
-MIT
-
 ### Requirements
  - [AutoHotkey](https://www.autohotkey.com/)
  - Teams must be setup by the following:
@@ -43,3 +40,6 @@ MIT
  - To enable debugging you must create a file called "debug" and put it in the application directory
  - To bypass 7 second wait timer at first startup you must create a file called "ran" and put it in the application directory
  - Do NOT remove or tamper any files in any directory
+
+### License
+MIT
