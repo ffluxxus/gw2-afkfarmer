@@ -5,7 +5,9 @@
 :wave: This repo is maintained by [@ffluxxus](https://github.com/ffluxxus). If you see anything wrong or missing, please [file an issue](https://github.com/ffluxxus/gw2-afkfarmer/issues/new/choose)! :+1:
 
 ## Help Needed!
-- Need help getting coordinates for objects on other display resolutions
+- Need help getting coordinates for objects on other display resolutions:
+  - 1080p
+  - 720p
 
 [![License](.github/licensebadge.svg)](/LICENSE.md)
 ![Build](https://github.com/ffluxxus/unity-headunit/actions/workflows/main.yml/badge.svg)
