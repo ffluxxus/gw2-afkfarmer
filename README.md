@@ -39,6 +39,7 @@ Recommend limit your FPS to at least 70FPS to lower heat and power draw.
 
 ### Requirements
  - [AutoHotkey](https://www.autohotkey.com/)
+ - You must start the application either at the "Solo Play" portion of the Multiplayer Portal or at the end-game screen with the "Launch" button. Otherwise application will wait until it reaches the "Solo Play" portion.
  - Teams must be setup by the following:
    - Plants: None
    - Zombies: Cosmic Overload
