@@ -20,11 +20,14 @@ Python / AutoHotkey based AFK Coin Farmer used on Garden Warfare 2 to get ~60k p
 This code was built using a 1440p display. If you are using any other resolution you will need to pull coords from your resolution.
 
 ### Supported functionalities
- - Bad Imaging Failsafe
+ - 2 Well Performing Failsafes
+ - Auto Update Checking (release / nightly)
  - Auto Gamemode Selection
  - Auto Player Selection
  - Auto Game Restarting
- - Money Counting
+ - Plants Team Auto Swapping
+ - Mid-Game Detection and Starting
+ - Total Money / Farmed Money
  - Rich Presence
  - and more...
 
@@ -39,12 +42,7 @@ This code was built using a 1440p display. If you are using any other resolution
    - Zombies: Cosmic Overload
  - Super Brains must be used at all times
  - You must walk into the portal when first created then you are done
- - Ideally a 1440p display. Code will need configuration if not
-
-### Other
- - To enable debugging you must create a file called "debug" and put it in the application directory
- - To bypass 7 second wait timer at first startup you must create a file called "ran" and put it in the application directory
- - Do NOT remove or tamper any files in any directory
+ - Ideally a 1440p display. Code will need configuration if not (contact)
 
 ### Config File Types
  - "debug": Forces program to print debug messages to console. Mainly used for development purposes
