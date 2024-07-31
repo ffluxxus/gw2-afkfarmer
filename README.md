@@ -46,5 +46,11 @@ This code was built using a 1440p display. If you are using any other resolution
  - To bypass 7 second wait timer at first startup you must create a file called "ran" and put it in the application directory
  - Do NOT remove or tamper any files in any directory
 
+### Config File Types
+ - "debug": Forces program to print debug messages to console. Mainly used for development purposes
+ - "ran": Forces program to skip 7 second timeout for new users to read instructions.
+ - "release": Forces program to only check GitHub for release updates.
+ - "nightly": Forces program to only check GitHub for p
+
 ### License
 MIT
