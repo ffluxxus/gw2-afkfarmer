@@ -18,6 +18,7 @@
 ### Description
 Python / AutoHotkey based AFK Coin Farmer used on Garden Warfare 2 to get ~60k per hour.
 This code was built using a 1440p display. If you are using any other resolution you will need to pull coords from your resolution.
+Recommend limit your FPS to at least 70FPS to lower heat and power draw.
 
 ### Supported functionalities
  - 2 Well Performing Failsafes
@@ -31,9 +32,10 @@ This code was built using a 1440p display. If you are using any other resolution
  - Rich Presence
  - and more...
 
-### Supported platforms
- - Windows 10
- - Windows 11
+### Supported systems
+ - Operating Systems: `Windows 10, Windows 11, 64-bit`
+ - Resolutions: `Fullscreen Borderless, 1440p` *to get more resolutions added contact me with yours*
+ - Frame Rate: `Greater than 70FPS`
 
 ### Requirements
  - [AutoHotkey](https://www.autohotkey.com/)
@@ -43,6 +45,8 @@ This code was built using a 1440p display. If you are using any other resolution
  - Super Brains must be used at all times
  - You must walk into the portal when first created then you are done
  - Ideally a 1440p display. Code will need configuration if not (contact)
+ - Ideally 90FPS+ for best performance and reliability
+ - Having <60FPS will affect actions, mouse movement, and image capture as tested
 
 ### Config File Types
  - "debug": Forces program to print debug messages to console. Mainly used for development purposes
