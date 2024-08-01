@@ -18,12 +18,12 @@
 ![ShowcaseImage](https://github.com/ffluxxus/gw2-afkfarmer/blob/main/.github/Untitled.png?raw=true)
 
 ### Description
-Python / AutoHotkey based AFK Coin Farmer used on Garden Warfare 2 to get ~60k per hour.
+Python / AutoHotkey based AFK Coin Farmer used on Garden Warfare 2 to get ~60k per hour or ~1.5M per day.
 This code was built using a 1440p display. If you are using any other resolution you will need to pull coords from your resolution.
 Recommend limit your FPS to at least 70FPS to lower heat and power draw.
 
 ### Supported functionalities
- - 2 Well Performing Failsafes
+ - 4 Well Performing Failsafes
  - Auto Update Checking (release / nightly)
  - Auto Gamemode Selection
  - Auto Player Selection
