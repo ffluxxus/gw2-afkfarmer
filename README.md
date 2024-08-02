@@ -59,4 +59,4 @@ Recommend limit your FPS to at least 70FPS to lower heat and power draw.
  - "nightly": Forces program to only check GitHub for p
 
 ### License
-MIT
+Private Use
