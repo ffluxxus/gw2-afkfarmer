@@ -15,7 +15,7 @@
 
 ---
 
-[![ShowcaseImage](https://github.com/ffluxxus/gw2-afkfarmer/blob/main/.github/Untitled.png?raw=true)](https://youtu.be/yx9TBFeYD-0)
+[![ShowcaseImage](https://github.com/ffluxxus/gw2-afkfarmer/blob/main/.github/showcase.png?raw=true)](https://youtu.be/yx9TBFeYD-0)
  *^^ click for showcase video ^^*
 
 ### Description
