@@ -6,7 +6,6 @@
 
 ## Help Needed!
 - Need help getting coordinates for objects on other display resolutions:
-  - 1080p
   - 720p
 
 [![License](.github/licensebadge.svg)](/LICENSE.md)
@@ -37,7 +36,7 @@ Recommend limit your FPS to at least 70FPS to lower heat and power draw.
 
 ### Supported systems
  - Operating Systems: `Windows 10, Windows 11, 64-bit`
- - Resolutions: `Fullscreen Borderless, 1440p` *to get more resolutions added contact me with yours*
+ - Resolutions: `Fullscreen Borderless, 1440p, 1080p` *to get more resolutions added contact me with yours*
  - Frame Rate: `Greater than 70FPS`
 
 ### Requirements
@@ -55,8 +54,8 @@ Recommend limit your FPS to at least 70FPS to lower heat and power draw.
 ### Config File Types
  - "debug": Forces program to print debug messages to console. Mainly used for development purposes
  - "ran": Forces program to skip 7 second timeout for new users to read instructions.
- - "release": Forces program to only check GitHub for release updates.
- - "nightly": Forces program to only check GitHub for p
+ - "1080p": Forces program to use the 1080p bounding boxes and action scripts
+ - "1440p": Forces program to use the 1440p bounding boxes and action scripts
 
 ### License
 MIT
